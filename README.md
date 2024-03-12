@@ -26,6 +26,7 @@ Passionnée par l'apprentissage continue et l'amelioration de mes competences, j
 N'hésitez pas à m'envoyer un e-mail en anglais, français ou portugais, ou à me contacter via mon compte [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/). Je serais ravie de discuter avec vous. 
 
 
+
 <!--
 **angelicamiotti/angelicamiotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +40,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Colocar isso depois que eu subir projetos em R... é a estatística das minhas linguagens mais utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicamiotti)](https://github.com/angelicamiotti/github-readme-stats)
+
+
 -->
