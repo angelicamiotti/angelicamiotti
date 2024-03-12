@@ -1,9 +1,7 @@
-[Engish version](#english-version)
 [Version française](#french-version)
 
 
 ### Hi there 👋
-<a name="english-version"></a>
 
 I am Angélica, I have an academic background in maths and physics, and I am currently looking for a job in France or remotely as a Data Analyst or Data Scientist. Recently, I completed Data Analyst training, gaining practical experience with different tools that are currently used such as SQL Server, MySQL, Power BI, and Talend.
 
@@ -24,7 +22,8 @@ Dans ce profil, vous trouverez deux dépôts: un avec un projet BI que j'ai dév
 Passionnée par l'apprentissage continue et l'amelioration de mes competences, je suis actuellement une formation ML with Sklearn, et j'utilise mes apprentissages sur des datasets externes qui m'intéressent. J'approfondis également mes connaissances sur Talend, un outil ETL avec lequel j'avais déjà une familiarité acquise lors ma formation de Data Analyst.
 
 **Comment me contacter ?**
-N'hésitez pas à m'envoyer un e-mail en anglais, français ou portugais, ou à me contacter via mon compte LinkedIn. Je serais ravie de discuter avec vous. 
+
+N'hésitez pas à m'envoyer un e-mail en anglais, français ou portugais, ou à me contacter via mon compte [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/). Je serais ravie de discuter avec vous. 
 
 
 <!--
