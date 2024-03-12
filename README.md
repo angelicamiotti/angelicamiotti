@@ -22,9 +22,9 @@ I'm passionate about continual learning and skill improvement. That is why I am 
 
 Je suis Angélica et j'ai un parcours académique en maths et en physique. Actuellement, je recherche un emploi en France ou à distance en tant que Data Analyst ou Data Scientist. Récemment, j'ai réalisé une formation intensive Data Analyst, où j'ai acquis de l'expérience practique avec differents outils liés au métier tels que SQL Server, MySQL, Power BI et Talend.
 
-Dans ce profil, vous trouverez deux dépôts: un avec un projet BI que j'ai développé de bout en bout lors de ma formation Data Analyst et un autre repository où j'ai appliqué des techniques de Machine Learning pour la classification d'images.
+Dans ce profil, vous trouverez deux dépôts: un avec un projet BI que j'ai développé de bout en bout lors de ma formation Data Analyst et un autre où j'ai appliqué des techniques de Machine Learning pour la classification d'images.
 
-Passionnée par l'apprentissage continue et l'amelioration de mes competences, je suis actuellement une formation ML with Sklearn, et j'utilise mes apprentissages sur des datasets externes qui m'intéressent. J'approfondis également mes connaissances sur Talend, un outil ETL avec lequel j'avais déjà une familiarité acquise lors ma formation de Data Analyst.
+Passionnée par l'apprentissage continue et l'amelioration de mes competences, je suis actuellement une formation ML with Sklearn, et j'applique mes apprentissages sur des datasets externes qui m'intéressent. À présent, j'approfondis également mes connaissances sur Talend, un outil ETL avec lequel j'avais déjà une familiarité acquise lors ma formation de Data Analyst.
 
 <a name="informations-de-contact"></a>
 
