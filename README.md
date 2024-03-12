@@ -1,6 +1,9 @@
-[Version française](#french-version)
-[Skills](#skills)
+## Summary
+1. [English version](#english-version)
+2. [Version française](#french-version)
+3. [Skills](#skills)
 
+<a name="english-version"></a>
 
 ### Hi there 👋
 
@@ -10,6 +13,7 @@ In this profile, you will find a project on Business Intelligence that I develop
 
 I'm passionate about continual learning and skill improvement. That is why I am currently learning ML algorithms through a course ML with Sklearn, and I am applying this learning to other datasets that I think are interesting to work on. I'm also diving into ETL tools like Talend, that I acquired some familiarity with previously during my Data Analyst training to master them further.
 
+<a name="contact-information"></a>
 
 **How to reach me:** Feel free to [email](mailto:angelicamiotti@gmail.com) me in English, French, or Portuguese, as you wish, or contact me through my [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/) account. I would be happy to talk to you. 😊
 
@@ -21,6 +25,8 @@ Je suis Angélica et j'ai un parcours académique en maths et en physique. Actue
 Dans ce profil, vous trouverez deux dépôts: un avec un projet BI que j'ai développé de bout en bout lors de ma formation Data Analyst et un autre repository où j'ai appliqué des techniques de Machine Learning pour la classification d'images.
 
 Passionnée par l'apprentissage continue et l'amelioration de mes competences, je suis actuellement une formation ML with Sklearn, et j'utilise mes apprentissages sur des datasets externes qui m'intéressent. J'approfondis également mes connaissances sur Talend, un outil ETL avec lequel j'avais déjà une familiarité acquise lors ma formation de Data Analyst.
+
+<a name="informations-de-contact"></a>
 
 **Comment me contacter ?**
 
