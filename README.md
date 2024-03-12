@@ -10,7 +10,7 @@ In this profile, you will find a project on Business Intelligence that I develop
 I'm passionate about continual learning and skill improvement. That is why I am currently learning ML algorithms through a course ML with Sklearn, and I am applying this learning to other datasets that I think are interesting to work on. I'm also diving into ETL tools like Talend, that I acquired some familiarity with previously during my Data Analyst training to master them further.
 
 
-**How to reach me:** Feel free to <a href="angelicamiotti@gmail.com">email </a> me in English, French, or Portuguese, as you wish, or contact me through my [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/) account. I would be happy to talk to you. 😊
+**How to reach me:** Feel free to [email](mailto:angelicamiotti@gmail.com) me in English, French, or Portuguese, as you wish, or contact me through my [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/) account. I would be happy to talk to you. 😊
 
 <a name="french-version"></a>
 ### Hello 👋
@@ -23,7 +23,7 @@ Passionnée par l'apprentissage continue et l'amelioration de mes competences, j
 
 **Comment me contacter ?**
 
-N'hésitez pas à m'envoyer un <a href="angelicamiotti@gmail.com">e-mail </a> en anglais, français ou portugais, ou à me contacter via mon compte [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/). Je serais ravie de discuter avec vous. 
+N'hésitez pas à m'envoyer un [e-mail](mailto:angelicamiotti@gmail.com) en anglais, français ou portugais, ou à me contacter via mon compte [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/). Je serais ravie de discuter avec vous. 
 
 
 
