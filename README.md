@@ -1,4 +1,5 @@
 [Version française](#french-version)
+[Skills](#skills)
 
 
 ### Hi there 👋
@@ -24,6 +25,24 @@ Passionnée par l'apprentissage continue et l'amelioration de mes competences, j
 **Comment me contacter ?**
 
 N'hésitez pas à m'envoyer un [e-mail](mailto:angelicamiotti@gmail.com) en anglais, français ou portugais, ou à me contacter via mon compte [LinkedIn](https://www.linkedin.com/in/ang%C3%A9lica-de-salvo-miotti-730733197/). Je serais ravie de discuter avec vous. 
+
+<a name="skills"></a>
+
+### Skills
+
+#### Languages
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/a837c9ce-2278-47ee-90ff-50725a90d1bc" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/780f9b02-ca30-41f1-9b10-f4e7a6ed6b41" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/f4410318-781a-47d3-807c-3aa7f68777c7" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/2a09885c-76d1-41df-a47b-3622e5b9a298" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/3ceaf33d-791e-44d5-9be7-af81052ddd77" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/734e1898-f1aa-41a1-bc7e-1986087e855c" alt="Descrição da imagem" style="height:50px;">
+
+#### Tools
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/45556130-0af8-4bb4-b553-f4bed9969b62" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/35c4a3c0-6192-41a1-bc63-1f16916e85b8" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/715288c4-1583-4d30-bdca-46e10a596a78" alt="Descrição da imagem" style="height:50px;">
+<img src="https://github.com/angelicamiotti/angelicamiotti/assets/8940755/5abfd4d3-3994-48c6-9436-344199a8e816" alt="Descrição da imagem" style="height:50px;">
 
 
 
